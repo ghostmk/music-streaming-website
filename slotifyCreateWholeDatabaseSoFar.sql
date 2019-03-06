@@ -3,7 +3,6 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: localhost
--- Generation Time: Aug 13, 2017 at 12:08 PM
 -- Server version: 5.6.20
 -- PHP Version: 5.5.15
 
